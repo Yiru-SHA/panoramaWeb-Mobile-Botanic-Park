@@ -1,0 +1,11 @@
+{
+  "name": "a-frame-image-gallery",
+  "version": "1.0.0",
+  "description": "src=\"https://cdn.aframe.io/360-image-gallery-boilerplate/img/city.jpg\">",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
